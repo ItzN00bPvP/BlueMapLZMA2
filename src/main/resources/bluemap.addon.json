@@ -1,4 +1,4 @@
 {
-  "id": "bluemap-brotli",
-  "entrypoint": "de.bluecolored.bluemap.brotli.BlueMapBrotli"
+  "id": "bluemap-lzma2",
+  "entrypoint": "de.bluecolored.bluemap.lzma2.BlueMapLZMA2"
 }
