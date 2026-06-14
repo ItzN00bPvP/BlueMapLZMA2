@@ -1,1 +1,1 @@
-rootProject.name = "BlueMapBrotli"
+rootProject.name = "BlueMapLZMA2"
